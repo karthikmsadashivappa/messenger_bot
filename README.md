@@ -1,24 +1,7 @@
-# README
+<h1>Messenger Bot</h1>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<p>This is an apllication where user can custimize their Facebook Messenger bot.</p>
 
-Things you may want to cover:
+Here is a screenshot of working application.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<img src="app/assets/images/screenshot.png" alt="screenshot">
