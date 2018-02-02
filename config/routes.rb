@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
   get 'callback/index'
+  post '/' => 'callback#recieved_data'
 
   get 'callback/recieved_data'
   root 'callback#index'
