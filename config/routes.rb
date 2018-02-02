@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :messages
   get 'callback/index'
   post '/' => 'callback#recieved_data'
 
